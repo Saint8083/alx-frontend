@@ -1,3 +1,3 @@
-# ALX-Fronend
+# ALX-Frontend
 
 into specialiaztion
